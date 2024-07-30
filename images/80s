@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Retro 80s Landing Page</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>My Retro 80s Projects</h1>
+    </header>
+    <main>
+        <section class="projects">
+            <div class="project-card">
+                <h2>Project 1</h2>
+                <p>Description of Project 1</p>
+            </div>
+            <div class="project-card">
+                <h2>Project 2</h2>
+                <p>Description of Project 2</p>
+            </div>
+            <!-- Add more project cards as needed -->
+        </section>
+    </main>
+    <footer>
+        <p>Contact me at <a href="mailto:example@example.com">example@example.com</a></p>
+    </footer>
+    <script src="scripts.js"></script>
+</body>
+</html>
